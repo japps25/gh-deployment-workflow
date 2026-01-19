@@ -1,2 +1,3 @@
 # gh-deployment-workflow
-Practicing a simple GitHub Actions workflow 
+
+Simple CI/CD demo. Edits to `index.html` auto-deploy to GitHub Pages.
